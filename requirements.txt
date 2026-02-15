@@ -14,5 +14,5 @@ flask-sqlalchemy>=2.3.2
 gunicorn>=18.0
 gevent-websocket>=0.10.1
 pyopenssl>=19.0
-cryptography>=2.7
+cryptography>=46.0.5
 six>=1.12.0
